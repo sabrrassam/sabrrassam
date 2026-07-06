@@ -87,12 +87,6 @@
 
 ---
 
-### 📊 إحصائيات جيتهاب (GitHub Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabrrassam&show_icons=true&theme=radial&locale=en" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrrassam&layout=compact&theme=radial&locale=en" alt="Top Languages" />
-</p>
 
 ---
 
